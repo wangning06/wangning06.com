@@ -1,5 +1,5 @@
 ---
-title: my frist blog
+title: 个人成长及总结_20191222
 author: wangning
 date: '2019-12-22'
 slug: my-frist-blog
